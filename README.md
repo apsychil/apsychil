@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏗️ Currently working as DevOps/SRE Engineer.<br>🧠 Fun fact: I'm also a Psychologist.
+🏗️ Currently working as DevOps/SRE Engineer.<br>
 
 
 ## 🌐 Socials:
